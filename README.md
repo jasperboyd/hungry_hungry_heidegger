@@ -1,5 +1,5 @@
 # Hungry Hungry Heidegger
-#### A Solution to the Hungry Philosophers Problem
+### A Solution to the Hungry Philosophers Problem
 
 __Jasper J. Boyd__  and __David N. Robinson__
 
