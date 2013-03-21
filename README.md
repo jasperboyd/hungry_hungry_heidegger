@@ -4,6 +4,9 @@
 
 ##todo
 
-    -Setup shit
-    -Get our shit together
-    -Implement shit
+    - Setup shit
+    - Get our shit together
+    - Implement shit
+    - Prevent all shit blizzards
+    - Disable Error-handling
+    - Take this project seriously
