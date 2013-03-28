@@ -1,5 +1,9 @@
 # Hungry Hungry Heidegger
+<<<<<<< HEAD
 #### A Solution to the Hungry Philosophers Problem
+=======
+### A Solution to the Hungry Philosophers Problem
+>>>>>>> master
 
 __Jasper J. Boyd__  and __David N. Robinson__
 
