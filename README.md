@@ -1,6 +1,7 @@
 # Hungry Hungry Heidegger
-### A Solution to the Hungry Philosophers Problem
-### Jasper J. Boyd and David N. Robinson
+#### A Solution to the Hungry Philosophers Problem
+
+__Jasper J. Boyd__  and __David N. Robinson__
 
 ##Description
 
